@@ -5,11 +5,12 @@ This application must be developed as term assignment for the first part (fronte
 
 You can try the the web application without a backend application and a database server. The frontend in this term assignment is self-contained and can be used to perform simple CRUD operations on products table upon logging in. The data is stored and retrieved from LocalStorage. New users can register themselves.
 
-## What the students neeed to do in this assignment?
+## What the students neeed to do and solution to this assignment
 
 - Use vanilla CSS (no library of framework allowed) to style all the HTML pages created for the user stories described in the sequence of this README file.
 - Use the JavaScript LocalStorage API to simulate back-end persistence in the frontend.
-- In addition to the details provided in this README.md file, the student must take a look at all the files located in the frontend directory of this repository looking for comments with addiional tips and instructions for this assignment.
+- In addition to the details provided in this README.md file, the student must take a look at all the files located in the frontend/begin directory of this repository looking for comments with addiional tips and instructions for this assignment.
+- The frontend/end folder contains my solution. Only check it after you've tried implementing your own solution. 🚫 No cheating!
 
 ## Technologies Used (frontend)
 
