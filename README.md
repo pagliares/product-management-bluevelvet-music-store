@@ -222,3 +222,7 @@ Acceptance criteria:
 ![US-1050: Create product](images/user_stories/us-1627/end/us-1627-end.png)
 **Figure 16:** US-1627: Delete product (possible solution for the assignment after improving the CSS style)
 
+# Tips
+
+This assignment is complemented with the one used in the Application Lifecyle Management (ALM) course. Check its <a [href="https://github.com/pagliares/product-management-bluevelvet-music-store](https://github.com/pagliares/category-management-bluevelvet-music-store)" target="_blank"> repository</a> to get some ideas for improving assignment. Note that the ALM repository is target for full stack development (not only frontend), by using Spring boot, Thymeleaf, and Spring Security, in addtion to a Relational Database Management System (RDBMS) for persistence.
+
