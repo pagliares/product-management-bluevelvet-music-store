@@ -224,5 +224,5 @@ Acceptance criteria:
 
 # Tips
 
-This assignment is complemented with the one used in the Application Lifecyle Management (ALM) course. Check its <a [href="https://github.com/pagliares/product-management-bluevelvet-music-store](https://github.com/pagliares/category-management-bluevelvet-music-store)" target="_blank"> repository</a> to get some ideas for improving assignment. Note that the ALM repository is target for full stack development (not only frontend), by using Spring boot, Thymeleaf, and Spring Security, in addtion to a Relational Database Management System (RDBMS) for persistence.
+This assignment is complemented with the one used in the Application Lifecyle Management (ALM) course. Check its <a href="https://github.com/pagliares/product-management-bluevelvet-music-store" target="_blank"> repository</a> to get some ideas for improving assignment. Note that the ALM repository is target for full stack development (not only frontend), by using Spring boot, Thymeleaf, and Spring Security, in addtion to a Relational Database Management System (RDBMS) for persistence.
 
