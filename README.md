@@ -54,10 +54,10 @@ Acceptance criteria:
 - The password must be at least 8 characters long
 - There must be an option allowing new administrators to create an account. Suggestion: "Don't have an account? Register"
 
-![US-1232: Login](frontend/images/user_stories/us-1232/begin/us-1232-begin.png)
+![US-1232: Login](images/user_stories/us-1232/begin/us-1232-begin.png)
 **Figure 1:** US-1232 - Login Screen (provided as starting point for the assignment)
 
-![US-1232: Login](frontend/images/user_stories/us-1232/end/us-1232-end.png)
+![US-1232: Login](images/user_stories/us-1232/end/us-1232-end.png)
 **Figure 2:** US-1232 - Login Screen (possible solution for the assignment after improving the CSS style)
 
  ### US-1603: Register new users
@@ -72,10 +72,10 @@ Acceptance criteria:
 - A user has an e-mail address and a password.
 - A message "Already have an account? Login" must be presented to allow returnin to the login page.
 
-![US-1232: Register](frontend/images/user_stories/us-1603/begin/us-1603-begin.png)
+![US-1232: Register](images/user_stories/us-1603/begin/us-1603-begin.png)
 **Figure 3:** US-1603 - Register new users (provided as starting point for the assignment)
 
-![US-1232: Register](frontend/images/user_stories/us-1603/end/us-1603-end.png)
+![US-1232: Register](images/user_stories/us-1603/end/us-1603-end.png)
 **Figure 4:** US-1603 - Register new users (possible solution for the assignment after improving the CSS style)
 
 ### US-2032: Access the Product Management Dashboard 
@@ -101,10 +101,10 @@ Acceptance criteria:
 - From the dashboard it must be possible to add, view deails, delete, and edit product information.
 - There must be an option to reset the product list to it's initial state (to facilitate testing, there will be 10 products initially created when first running the application of after selecting the option reset the product list.
 
-![US-1232: Register](frontend/images/user_stories/us-2032/begin/us-2032-begin.png)
+![US-1232: Register](images/user_stories/us-2032/begin/us-2032-begin.png)
 **Figure 5:** US-2032 - Access the Product Management Dashboard (provided as starting point for the assignment)
 
-![US-1232: Register](frontend/images/user_stories/us-2032/end/us-2032-end.png)
+![US-1232: Register](images/user_stories/us-2032/end/us-2032-end.png)
 **Figure 6:** US-2032 - Access the Product Management Dashboard (possible solution for the assignment after improving the CSS style)
 
 ### US-1050: Create product
@@ -151,10 +151,10 @@ https://www.jqueryscript.net/text/Rich-Text-Editor-jQuery-RichText.html
            ----- extra-images/
                                       ........ extra-image-1.png
 
-![US-1050: Create product](frontend/images/user_stories/us-1050/begin/us-1050-begin.png)
+![US-1050: Create product](images/user_stories/us-1050/begin/us-1050-begin.png)
 **Figure 7:** US-1050 - Create product (provided as starting point for the assignment)
 
-![US-1050: Create product](frontend/images/user_stories/us-1050/end/us-1050-end.png)
+![US-1050: Create product](images/user_stories/us-1050/end/us-1050-end.png)
 **Figure 8:** US-1050 - Create product (possible solution for the assignment after improving the CSS style)
 
 ### US-1452: Edit product information
@@ -178,16 +178,16 @@ Acceptance criteria:
 - Test Updating Overview, Main image, Description & Shipping
 - A form is displayed with the products data already filled in.
 
-![US-1452: Edit product information](frontend/images/user_stories/us-1452/begin/us-1452-begin-part1.png)
+![US-1452: Edit product information](images/user_stories/us-1452/begin/us-1452-begin-part1.png)
 **Figure 9:** US-1452 - Edit product information (provided as starting point for the assignment)
 
-![US-1452: Edit product information](frontend/images/user_stories/us-1452/begin/us-1452-begin-part2.png)
+![US-1452: Edit product information](images/user_stories/us-1452/begin/us-1452-begin-part2.png)
 **Figure 10:** US-1452 - Edit product information (provided as starting point for the assignment)
 
-![US-1452: Edit product information](frontend/images/user_stories/us-1452/end/us-1452-end-part1.png)
+![US-1452: Edit product information](images/user_stories/us-1452/end/us-1452-end-part1.png)
 **Figure 11:** US-1452 - Edit product information (possible solution for the assignment after improving the CSS style - part 1/2)
 
-![US-1452: Edit product information](frontend/images/user_stories/us-1452/end/us-1452-end-part2.png)
+![US-1452: Edit product information](images/user_stories/us-1452/end/us-1452-end-part2.png)
 **Figure 12:** US-1452 - Edit product information (possible solution for the assignment after improving the CSS style - part 2/2)
 
 ### US-1045: View product details
@@ -199,10 +199,10 @@ Acceptance criteria:
 - Different of US-2032 where it is possible to see some product fields, this US allows the Administrator to visualize all product details (fields) for a specific product.
 - The product details must be shown in the same screens created in the US-1050 - Create Product
  
-![US-1045: Create product](frontend/images/user_stories/us-1045/begin/us-1045-begin.png)
+![US-1045: Create product](images/user_stories/us-1045/begin/us-1045-begin.png)
 **Figure 13:** US-1045 - View product details (provided as starting point for the assignment)
 
-![US-1050: Create product](frontend/images/user_stories/us-1045/end/us-1045-end.png)
+![US-1050: Create product](images/user_stories/us-1045/end/us-1045-end.png)
 **Figure 14:** US-1045 - View product details (possible solution for the assignment after improving the CSS style)
 
  ### US-1627: Delete product
