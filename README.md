@@ -222,7 +222,3 @@ Acceptance criteria:
 ![US-1050: Create product](frontend/images/user_stories/us-1627/end/us-1627-end.png)
 **Figure 16:** US-1627: Delete product (possible solution for the assignment after improving the CSS style)
 
-
-# Tips
-
-This assignment complements the one used in the Web Programming course. Check its <a href="https://github.com/pagliares/product-management-bluevelvet-music-store" target="_blank"> repository</a> to get some ideas for this assignment. Note that the Web Programming repository includes a frontend example that simulates CRUD operations on products of the BlueVelvet Music Store without a backend implementation, using the JavaScript LocalStorage API to simulate persistence.
