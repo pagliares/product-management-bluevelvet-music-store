@@ -216,9 +216,9 @@ Acceptance criteria:
 - Test Delete a product
 - A message must be displayed asking you whether you want to delete this product or not.
 
-![US-1045: Create product](frontend/images/user_stories/us-1627/begin/us-1627-begin.png)
+![US-1045: Create product](images/user_stories/us-1627/begin/us-1627-begin.png)
 **Figure 15:** US-1627: Delete product (provided as starting point for the assignment)
 
-![US-1050: Create product](frontend/images/user_stories/us-1627/end/us-1627-end.png)
+![US-1050: Create product](images/user_stories/us-1627/end/us-1627-end.png)
 **Figure 16:** US-1627: Delete product (possible solution for the assignment after improving the CSS style)
 
